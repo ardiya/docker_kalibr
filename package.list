@@ -1,0 +1,11 @@
+git
+libboost-all-dev
+libeigen3-dev
+libsuitesparse-dev
+libv4l-dev
+python3-catkin-tools
+python3-igraph
+python3-matplotlib
+python3-numpy
+python3-pip
+python3-vcstool
